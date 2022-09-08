@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.promo {
+    height: 802px;
+    background: url("../img/main_bg.jpg") no-repeat center top / cover;
+    text-align: center;
+    padding-top: 38px;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+    box-shadow: 10px 0px, 0px rgba(0, 0, 0, 0.4);
+
+}
+
+.logo span {
+    display: block;
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin: 10px 0 53px;
+
+}
+
+.title_one {
+    font-weight: 900;
+    font-size: 41px;
+    color: #F9BF3B;
+    text-transform: uppercase;
+}
+
+.title_two {
+    color: white;
+    font-size: 88px;
+    line-height: 80px;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin: 10px 10px;
+}
+
+.promo p {
+    font-size: 21px;
+    font-weight: 300;
+    color: white;
+    margin-top: 22px;
+}
+
+.promo p b {
+    color: #F9BF3B;
+}
+
+.btn {
+    width: 313px;
+    height: 72px;
+
+    background: linear-gradient(0deg, #2798B9 0%, #3AB6DA 100%);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
+    font-size: 21px;
+    color: #FFFFFF;
+    text-shadow: -1px, -1px rgba(0, 0, 0, 0.22);
+    border: none;
+    margin-top: 72px;
+}
+
+.intensive {
+    background-color: #efefef;
+    padding: 85px 0 75px;
+    text-align: center;
+}
+
+.intensive h2 {
+    font-size: 30px;
+    font-weight: 400;
+    color: #252525;
+    text-transform: uppercase;
+}
+
+.line {
+    width: 220px;
+    height: 4px;
+    background: #F9BF3B;
+    margin: 20px auto;
+}
+
+
+
+.intensive h3 {
+    font-weight: 400;
+    font-size: 23px;
+    color: #4a4a4a;
+}
+
+.intensive .box {
+    margin-top: 45px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.intensive .item {
+    width: 342px;
+}
+
+.about {
+    padding: 108px 0 74px;
+    background: url("../img/woman_bg\ \(1\).png") no-repeat left bottom;
+}
+
+.about .content {
+    padding-left: 382px;
+
+}
+
+.about_content h2 {
+    font-weight: 900;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #299cbd;
+    margin-bottom: 20px;
+}
+
+.about_content p {
+    font-weight: 300;
+    font-size: 17px;
+    color: #4a4a4a;
+    margin-bottom: 20px;
+
+}
